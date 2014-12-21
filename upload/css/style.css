@@ -1,0 +1,28 @@
+.block {
+    width: 600px;
+    padding: 10px;
+}
+
+.block legend {
+    font-weight: bold;
+    border: 1px solid #888;
+    border-right: 1px solid #666;
+    border-bottom: 1px solid #666;
+    padding: .5em;
+    background-color: #CCC;
+}
+
+.block input {
+	width: 550px;
+}
+
+.captcha_border {
+    display: inline-block;
+    font-size: 0;
+    line-height: 0;
+    border: 3px solid black;
+}
+
+.errors {
+	color: red;
+}
